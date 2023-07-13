@@ -1,0 +1,241 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=DRIVER=SQLite3 ODBC Driver;Database=C:\Projekte\Altium Test\AltiumTest\crispDemo.db;LongNames=0;Timeout=1000;NoTXN=0;SyncPragma=NORMAL;StepAPI=0;
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Connectors - 
+[Table1]
+SchemaName=
+TableName=Capacitors - Aluminum - Electrolytic TH
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Capacitors - Ceramic - 0402
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Capacitors - Ceramic - 0603
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=Capacitors - Ceramic - 0805
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=Capacitors - Ceramic - 1206
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=Connectors - 
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Series0=133|Verified0=71|Description0=207|Connector Type0=122|Footprint Path0=362|Footprint Ref0=246|Manufacturer0=212|Part Number0=104|Part Status0=92|Contact Type0=106|Library Path0=415|Library Ref0=247|Number of Positions0=150|Number of Rows0=127|Row Spacing - Mating0=160|Style0=134|Mounting Type0=172|Termination0=98|Fastening Type0=117|Insulation Color0=122|Current Rating (Amps)0=162|Voltage Rating0=115
+[Table7]
+SchemaName=
+TableName=Data Acquisition - Digital to Analog Converters DAC
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=Embedded - Microcontrollers
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=Filters - Ferrite Beads and Chips
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=Inductors - Power
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=MOSFET - Single - P-Ch
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=Sensors - NTC Thermistors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Capacitors - Aluminum - Electrolytic TH.Description|TableNameOnly=Capacitors - Aluminum - Electrolytic TH|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Capacitors - Aluminum - Electrolytic TH.Footprint Path|TableNameOnly=Capacitors - Aluminum - Electrolytic TH|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Capacitors - Aluminum - Electrolytic TH.Footprint Ref|TableNameOnly=Capacitors - Aluminum - Electrolytic TH|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Capacitors - Aluminum - Electrolytic TH.Part Number|TableNameOnly=Capacitors - Aluminum - Electrolytic TH|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Capacitors - Aluminum - Electrolytic TH.Library Path|TableNameOnly=Capacitors - Aluminum - Electrolytic TH|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Capacitors - Aluminum - Electrolytic TH.Library Ref|TableNameOnly=Capacitors - Aluminum - Electrolytic TH|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Capacitors - Ceramic - 0402.Description|TableNameOnly=Capacitors - Ceramic - 0402|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Capacitors - Ceramic - 0402.Footprint Path|TableNameOnly=Capacitors - Ceramic - 0402|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Capacitors - Ceramic - 0402.Footprint Ref|TableNameOnly=Capacitors - Ceramic - 0402|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Capacitors - Ceramic - 0402.Part Number|TableNameOnly=Capacitors - Ceramic - 0402|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Capacitors - Ceramic - 0402.Library Path|TableNameOnly=Capacitors - Ceramic - 0402|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Capacitors - Ceramic - 0402.Library Ref|TableNameOnly=Capacitors - Ceramic - 0402|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Capacitors - Ceramic - 0603.Description|TableNameOnly=Capacitors - Ceramic - 0603|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Capacitors - Ceramic - 0603.Footprint Path|TableNameOnly=Capacitors - Ceramic - 0603|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Capacitors - Ceramic - 0603.Footprint Ref|TableNameOnly=Capacitors - Ceramic - 0603|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Capacitors - Ceramic - 0603.Part Number|TableNameOnly=Capacitors - Ceramic - 0603|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Capacitors - Ceramic - 0603.Library Path|TableNameOnly=Capacitors - Ceramic - 0603|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Capacitors - Ceramic - 0603.Library Ref|TableNameOnly=Capacitors - Ceramic - 0603|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Capacitors - Ceramic - 0805.Description|TableNameOnly=Capacitors - Ceramic - 0805|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Capacitors - Ceramic - 0805.Footprint Path|TableNameOnly=Capacitors - Ceramic - 0805|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Capacitors - Ceramic - 0805.Footprint Ref|TableNameOnly=Capacitors - Ceramic - 0805|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Capacitors - Ceramic - 0805.Part Number|TableNameOnly=Capacitors - Ceramic - 0805|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Capacitors - Ceramic - 0805.Library Path|TableNameOnly=Capacitors - Ceramic - 0805|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Capacitors - Ceramic - 0805.Library Ref|TableNameOnly=Capacitors - Ceramic - 0805|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Capacitors - Ceramic - 1206.Description|TableNameOnly=Capacitors - Ceramic - 1206|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Capacitors - Ceramic - 1206.Footprint Path|TableNameOnly=Capacitors - Ceramic - 1206|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Capacitors - Ceramic - 1206.Footprint Ref|TableNameOnly=Capacitors - Ceramic - 1206|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Capacitors - Ceramic - 1206.Part Number|TableNameOnly=Capacitors - Ceramic - 1206|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Capacitors - Ceramic - 1206.Library Path|TableNameOnly=Capacitors - Ceramic - 1206|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Capacitors - Ceramic - 1206.Library Ref|TableNameOnly=Capacitors - Ceramic - 1206|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Connectors - .Description|TableNameOnly=Connectors - |FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Connectors - .Footprint Path|TableNameOnly=Connectors - |FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Connectors - .Footprint Ref|TableNameOnly=Connectors - |FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Connectors - .Part Number|TableNameOnly=Connectors - |FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Connectors - .Library Path|TableNameOnly=Connectors - |FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Connectors - .Library Ref|TableNameOnly=Connectors - |FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Data Acquisition - Digital to Analog Converters DAC.Description|TableNameOnly=Data Acquisition - Digital to Analog Converters DAC|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Data Acquisition - Digital to Analog Converters DAC.Footprint Path|TableNameOnly=Data Acquisition - Digital to Analog Converters DAC|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Data Acquisition - Digital to Analog Converters DAC.Footprint Ref|TableNameOnly=Data Acquisition - Digital to Analog Converters DAC|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=Data Acquisition - Digital to Analog Converters DAC.Part Number|TableNameOnly=Data Acquisition - Digital to Analog Converters DAC|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=Data Acquisition - Digital to Analog Converters DAC.Library Path|TableNameOnly=Data Acquisition - Digital to Analog Converters DAC|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Data Acquisition - Digital to Analog Converters DAC.Library Ref|TableNameOnly=Data Acquisition - Digital to Analog Converters DAC|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=Embedded - Microcontrollers.Description|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=Embedded - Microcontrollers.Footprint Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Embedded - Microcontrollers.Footprint Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Embedded - Microcontrollers.Part Number|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Embedded - Microcontrollers.Library Path|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Embedded - Microcontrollers.Library Ref|TableNameOnly=Embedded - Microcontrollers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Filters - Ferrite Beads and Chips.Description|TableNameOnly=Filters - Ferrite Beads and Chips|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Filters - Ferrite Beads and Chips.Footprint Path|TableNameOnly=Filters - Ferrite Beads and Chips|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Filters - Ferrite Beads and Chips.Footprint Ref|TableNameOnly=Filters - Ferrite Beads and Chips|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Filters - Ferrite Beads and Chips.Part Number|TableNameOnly=Filters - Ferrite Beads and Chips|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Filters - Ferrite Beads and Chips.Library Path|TableNameOnly=Filters - Ferrite Beads and Chips|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Filters - Ferrite Beads and Chips.Library Ref|TableNameOnly=Filters - Ferrite Beads and Chips|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Inductors - Power.Description|TableNameOnly=Inductors - Power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Inductors - Power.Footprint Path|TableNameOnly=Inductors - Power|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Inductors - Power.Footprint Ref|TableNameOnly=Inductors - Power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Inductors - Power.Part Number|TableNameOnly=Inductors - Power|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Inductors - Power.Library Path|TableNameOnly=Inductors - Power|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=Inductors - Power.Library Ref|TableNameOnly=Inductors - Power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=MOSFET - Single - P-Ch.Description|TableNameOnly=MOSFET - Single - P-Ch|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=MOSFET - Single - P-Ch.Footprint Path|TableNameOnly=MOSFET - Single - P-Ch|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=MOSFET - Single - P-Ch.Footprint Ref|TableNameOnly=MOSFET - Single - P-Ch|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=MOSFET - Single - P-Ch.Part Number|TableNameOnly=MOSFET - Single - P-Ch|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=MOSFET - Single - P-Ch.Library Path|TableNameOnly=MOSFET - Single - P-Ch|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=MOSFET - Single - P-Ch.Library Ref|TableNameOnly=MOSFET - Single - P-Ch|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=Sensors - NTC Thermistors.Description|TableNameOnly=Sensors - NTC Thermistors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=Sensors - NTC Thermistors.Footprint Path|TableNameOnly=Sensors - NTC Thermistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=Sensors - NTC Thermistors.Footprint Ref|TableNameOnly=Sensors - NTC Thermistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=Sensors - NTC Thermistors.Part Number|TableNameOnly=Sensors - NTC Thermistors|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=Sensors - NTC Thermistors.Library Path|TableNameOnly=Sensors - NTC Thermistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=Sensors - NTC Thermistors.Library Ref|TableNameOnly=Sensors - NTC Thermistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
