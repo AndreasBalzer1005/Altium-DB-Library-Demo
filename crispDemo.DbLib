@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=DRIVER=SQLite3 ODBC Driver;Database=C:\Projekte\Altium Test\AltiumTest\crispDemo.db;LongNames=0;Timeout=1000;NoTXN=0;SyncPragma=NORMAL;StepAPI=0;
+ConnectionString=DRIVER=SQLite3 ODBC Driver;Database=C:\Projekte\Altium-DB-Library-Demo\crispDemo.db;LongNames=0;Timeout=1000;NoTXN=0;SyncPragma=NORMAL;StepAPI=0;
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,117 +19,79 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Capacitors - Ceramic - 0805
+LastFocusedTable=Capacitors - Aluminum - Electrolytic TH
 [Table1]
 SchemaName=
 TableName=Capacitors - Aluminum - Electrolytic TH
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=497|Footprint Path0=446|Footprint Ref0=330|Part Number0=154|Library Path0=412|Library Ref0=271|Rated Capacitance0=137|Verified0=71|Package0=77|Manufacturer0=108|Part Status0=140|Ratings0=140|Capacitance Tolerance0=160|Rated Voltage0=111|Operating Temperature0=169|Lifetime @ Temperature0=172|Lead Spacing0=105|Mounting Type0=119|Height - Seated (Max)0=159|Size / Dimension0=126|Ripple Current @ Low Frequency0=226|Ripple Current @ High Frequency0=230
 [Table2]
 SchemaName=
 TableName=Capacitors - Ceramic - 0402
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=206|Footprint Path0=405|Footprint Ref0=289|Part Number0=138|Library Path0=337|Library Ref0=196|Capacitance0=98|Verified0=71|Package0=129|Manufacturer0=199|Part Status0=92|Ratings0=70|Temperature Coefficient0=171|Tolerance0=83|Voltage - Rated0=121|Operating Temperature0=169|Size / Dimension0=260|Thickness (Max)0=131|Features0=77
 [Table3]
 SchemaName=
 TableName=Capacitors - Ceramic - 0603
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=197|Footprint Path0=405|Footprint Ref0=289|Part Number0=175|Library Path0=337|Library Ref0=196|Capacitance0=98|Verified0=71|Package0=129|Manufacturer0=113|Part Status0=92|Ratings0=76|Temperature Coefficient0=171|Tolerance0=83|Voltage - Rated0=121|Operating Temperature0=169|Size / Dimension0=260|Thickness (Max)0=121|Features0=111|Footprint Path 20=126|Footprint Ref 20=117
 [Table4]
 SchemaName=
 TableName=Capacitors - Ceramic - 0805
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=186|Footprint Path0=405|Footprint Ref0=289|Part Number0=156|Library Path0=337|Library Ref0=196|Capacitance0=98|Verified0=71|Package0=129|Manufacturer0=123|Part Status0=92|Ratings0=76|Temperature Coefficient0=171|Tolerance0=83|Voltage - Rated0=121|Operating Temperature0=169|Size / Dimension0=260|Thickness (Max)0=121|Features0=111
 [Table5]
 SchemaName=
 TableName=Capacitors - Ceramic - 1206
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=197|Footprint Path0=405|Footprint Ref0=289|Part Number0=158|Library Path0=337|Library Ref0=196|Capacitance0=98|Verified0=71|Package0=129|Manufacturer0=123|Part Status0=92|Ratings0=76|Temperature Coefficient0=171|Tolerance0=83|Voltage - Rated0=121|Operating Temperature0=169|Size / Dimension0=260|Thickness (Max)0=121|Features0=111
 [Table6]
 SchemaName=
 TableName=Connectors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Series0=133|Verified0=71|Description0=207|Connector Type0=122|Footprint Path0=396|Footprint Ref0=280|Manufacturer0=212|Part Number0=104|Part Status0=92|Contact Type0=106|Library Path0=449|Library Ref0=281|Number of Positions0=150|Number of Rows0=127|Row Spacing - Mating0=160|Style0=134|Mounting Type0=172|Termination0=98|Fastening Type0=117|Insulation Color0=122|Current Rating (Amps)0=162|Voltage Rating0=115
 [Table7]
 SchemaName=
 TableName=Data Acquisition - Digital to Analog Converters DAC
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=227|Footprint Path0=285|Footprint Ref0=169|Part Number0=104|Library Path0=307|Library Ref0=175|Type0=81|Verified0=71|Package0=161|Manufacturer0=196|Part Status0=92|Ratings0=70|Operating Temperature0=169|Voltage - Supply0=127
 [Table8]
 SchemaName=
 TableName=Embedded - Microcontrollers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=244|Footprint Path0=359|Footprint Ref0=243|Part Number0=149|Library Path0=401|Library Ref0=265|Series0=71|Verified0=71|Package0=131|Manufacturer0=108|Part Status0=92|Ratings0=70|Operating Temperature0=169|Core Processor0=139|Number of Cores/Bus Width0=198|Speed0=62|Co-Processors/DSP0=143
 [Table9]
 SchemaName=
 TableName=Filters - Ferrite Beads and Chips
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=227|Footprint Path0=360|Footprint Ref0=244|Part Number0=132|Library Path0=384|Library Ref0=243|Impedance @ Frequency0=176|Verified0=71|Package0=129|Manufacturer0=123|Part Status0=92|Ratings0=76|Operating Temperature0=169|Current Rating (Max)0=153|DC Resistance (DCR) (Max)
-0=197|Mounting Type0=119|Height (Max)0=113|Size / Dimension0=260|Series0=115
 [Table10]
 SchemaName=
 TableName=Inductors - Power
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=254|Footprint Path0=347|Footprint Ref0=231|Part Number0=104|Library Path0=332|Library Ref0=191|Inductance0=92|Verified0=71|Package0=90|Manufacturer0=113|Part Status0=92|Ratings0=70|Operating Temperature0=169|Tolerance0=83|Series0=60|Current Rating (Amps)0=162|Current - Saturation (Isat)0=183|Shielding0=80|DC Resistance (DCR)
-0=159|Mounting Type0=119|Type0=155|Size / Dimension0=260|Height - Seated (Max)0=159
 [Table11]
 SchemaName=
 TableName=MOSFET - Single - P-Ch
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=217|Footprint Path0=406|Footprint Ref0=290|Part Number0=150|Library Path0=471|Library Ref0=309|Series0=102|Verified0=71|Package0=255|Manufacturer0=143|Part Status0=92|Ratings0=90|FET Type0=79|Technology0=148|Drain to Source Voltage (Vdss)0=212|Current - Continuous Drain (Id) @ 25°C0=269|Drive Voltage (Max Rds On, Min Rds On)0=275|Rds On (Max) @ Id, Vgs0=171|Vgs(th) (Max) @ Id0=140|Gate Charge (Qg) (Max) @ Vgs0=215|Vgs (Max)0=86|Power Dissipation (Max)0=172|Operating Temperature0=169|Mounting Type0=119
 [Table12]
 SchemaName=
 TableName=Sensors - NTC Thermistors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=264|Footprint Path0=387|Footprint Ref0=271|Part Number0=139|Library Path0=421|Library Ref0=276|Resistance in Ohms @ 25°C0=195|Verified0=71|Package0=129|Manufacturer0=271|Part Status0=92|Ratings0=76|Operating Temperature0=169|Resistance Tolerance0=150|Power - Max0=103|Mounting Type0=119
 [FieldMap1]
 Options=FieldName=Capacitors - Aluminum - Electrolytic TH.Description|TableNameOnly=Capacitors - Aluminum - Electrolytic TH|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
